@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unit-test-junit-mockito.iml" filepath="$PROJECT_DIR$/.idea/modules/unit-test-junit-mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unit-test-junit-mockito_main.iml" filepath="$PROJECT_DIR$/.idea/modules/unit-test-junit-mockito_main.iml" group="unit-test-junit-mockito" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unit-test-junit-mockito_test.iml" filepath="$PROJECT_DIR$/.idea/modules/unit-test-junit-mockito_test.iml" group="unit-test-junit-mockito" />
+    </modules>
+  </component>
+</project>
