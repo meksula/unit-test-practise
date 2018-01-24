@@ -12,5 +12,6 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile files('libs/JUnitParams-1.1.1.jar')
+    compile files('libs/mockito-all-1.10.19.jar')
 }
 
